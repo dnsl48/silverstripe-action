@@ -1,0 +1,2 @@
+using: 'docker'
+image: 'docker://dnsl48:php73-cli-silverstripe'
